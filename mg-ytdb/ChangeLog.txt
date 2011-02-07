@@ -1,0 +1,299 @@
+UPDATE 583_(11100)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
+
+UPDATE 582_(11073)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
+
+UPDATE 581_(11043)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
+
+UPDATE 580_(11000)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
+
+UPDATE 579_(10930)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
+
+UPDATE 578_(10905)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
+
+UPDATE 577_(10878)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
+
+UPDATE 576_(10842)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
+
+UPDATE 575_(10803)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ processed 46 caches (4.0.1)
+
+UPDATE 574_(10779)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
+
+UPDATE 573_(10726)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
+
+UPDATE 572_(10709)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
+
+UPDATE 571_(10675)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
+
+UPDATE 570_(10650)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
+
+UPDATE 569_(10625)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs (templates, spawn)
++ processed 220 caches (3.3.5a)
+
+UPDATE 568_(10602)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs (templates, spawn)
++ fix spawn "Pit of Saron" from sniffs
++ processed 205 caches (3.3.5a)
+
+UPDATE 567_(10554)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs (templates, spawn)
++ repopulation of fishing holes
++ processed 192 caches (3.3.5a)
+
+UPDATE 566_(10554)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs (templates, spawn)
++ processed 186 caches (3.3.5a)
+
+UPDATE 565_(10512)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs (templates, spawn)
++ processed 180 caches (3.3.5a)
+
+UPDATE 564_(10480)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs (templates, spawn)
++ The Ruby Sanctum: fix of physical damage from parses
++ Event: "Zalazane's Fall" - sniffs (require support script)
++ Event: "Operation: Gnomeregan" - sniffs (require support script)
++ processed 168 caches (3.3.5a)
+
+UPDATE 563_(10434)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs (templates, spawn)
++ processed 130 caches (3.3.5a)
+
+UPDATE 562_(10408)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs (templates, spawn)
++ processed 130 caches (3.3.5a)
+
+UPDATE 561_(10372)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs (templates, spawn)
++ processed 117 caches (3.3.5a)
+
+UPDATE 560_(10344) "Balthalionus"
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs (templates, spawn)
++ processed 107 caches (3.3.5a)
+
+UPDATE 559_(10309)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs (templates, spawn)
++ correction fields "RewMoneyMaxLevel" and "RewOrReqMoney" in "quest_template" from sniffs
++ processed 96 caches (3.3.5a)
+
+UPDATE 558_(10271)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs (templates, spawn)
++ "creature_template" for 3.3.5a - FULL sniffs
++ The Ruby Sanctum (full)
++ processed 73 caches (3.3.5a)
+
+UPDATE 557_(10233)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs (templates, spawn)
++ processed 73 caches (3.3.5a)
+
+UPDATE 556_(10188)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs (templates, spawn)
++ "quest_template" for 3.3.5a - FULL sniffs
++ "quest_poi" for 3.3.5a - FULL sniffs
++ "quest_poi_points" for 3.3.5a - FULL sniffs
++ processed 40 caches (3.3.5a)
+
+UPDATE 555_(10150) + transition to the client 3.3.5a
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs
++ processed 437 caches (3.3.3a)
++ processed 15 caches (3.3.5a)
+
+UPDATE 554_(10120)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ data from sniffs
++ processed 374 caches (3.3.3a)
+
+UPDATE 553_(10100)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ fix ICC (sniffer)
++ processed 361 caches (3.3.3a)
+
+UPDATE 552_(10065)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ new templates from WDB
++ update table "*_template" by WDB
++ processed 333 caches (3.3.3a)
+
+UPDATE 551_(10048)
++ all fixes from forum;
++ fix spawn;
++ quest scripts;
++ mob's gossip menues;
++ new templates from WDB;
++ update tables "*_template" by WDB
++ fix spawn for scripts: "Halls of Reflection", "Pit of Saron", "The Forge of Souls"
++ processed 304 caches
+
+UPDATE 550_(10023)
++ all fixes from forum;
++ fix spawn;
++ quest scripts;
++ mob's gossip menues;
++ new templates from WDB;
++ fix stats of NPC: Alterac Valley
++ fix data "disenchant_loot_template"
++ update tables "*_template" by WDB
++ processed 280 caches
