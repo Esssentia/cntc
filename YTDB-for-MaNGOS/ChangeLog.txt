@@ -1,3 +1,9 @@
+Update 601_(11581) "Fishmaps"
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
+
 Update 600_(11581)
 + all fixes from forum
 + fix spawn
